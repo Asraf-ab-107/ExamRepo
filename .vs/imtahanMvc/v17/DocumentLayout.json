@@ -1,0 +1,405 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\I Novbe\\source\\repos\\imtahanMvc\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{709E5367-630E-45DD-ACC1-E5E29AAF8893}|imtahanMvc\\imtahanMvc.csproj|c:\\users\\i novbe\\source\\repos\\imtahanmvc\\imtahanmvc\\areas\\manage\\controllers\\positioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{709E5367-630E-45DD-ACC1-E5E29AAF8893}|imtahanMvc\\imtahanMvc.csproj|solutionrelative:imtahanmvc\\areas\\manage\\controllers\\positioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{709E5367-630E-45DD-ACC1-E5E29AAF8893}|imtahanMvc\\imtahanMvc.csproj|c:\\users\\i novbe\\source\\repos\\imtahanmvc\\imtahanmvc\\areas\\manage\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{709E5367-630E-45DD-ACC1-E5E29AAF8893}|imtahanMvc\\imtahanMvc.csproj|solutionrelative:imtahanmvc\\areas\\manage\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{709E5367-630E-45DD-ACC1-E5E29AAF8893}|imtahanMvc\\imtahanMvc.csproj|c:\\users\\i novbe\\source\\repos\\imtahanmvc\\imtahanmvc\\areas\\manage\\views\\position\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{709E5367-630E-45DD-ACC1-E5E29AAF8893}|imtahanMvc\\imtahanMvc.csproj|solutionrelative:imtahanmvc\\areas\\manage\\views\\position\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{709E5367-630E-45DD-ACC1-E5E29AAF8893}|imtahanMvc\\imtahanMvc.csproj|c:\\users\\i novbe\\source\\repos\\imtahanmvc\\imtahanmvc\\areas\\manage\\views\\position\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{709E5367-630E-45DD-ACC1-E5E29AAF8893}|imtahanMvc\\imtahanMvc.csproj|solutionrelative:imtahanmvc\\areas\\manage\\views\\position\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{709E5367-630E-45DD-ACC1-E5E29AAF8893}|imtahanMvc\\imtahanMvc.csproj|c:\\users\\i novbe\\source\\repos\\imtahanmvc\\imtahanmvc\\areas\\manage\\views\\position\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{709E5367-630E-45DD-ACC1-E5E29AAF8893}|imtahanMvc\\imtahanMvc.csproj|solutionrelative:imtahanmvc\\areas\\manage\\views\\position\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{709E5367-630E-45DD-ACC1-E5E29AAF8893}|imtahanMvc\\imtahanMvc.csproj|c:\\users\\i novbe\\source\\repos\\imtahanmvc\\imtahanmvc\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{709E5367-630E-45DD-ACC1-E5E29AAF8893}|imtahanMvc\\imtahanMvc.csproj|solutionrelative:imtahanmvc\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{709E5367-630E-45DD-ACC1-E5E29AAF8893}|imtahanMvc\\imtahanMvc.csproj|c:\\users\\i novbe\\source\\repos\\imtahanmvc\\imtahanmvc\\models\\teachers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{709E5367-630E-45DD-ACC1-E5E29AAF8893}|imtahanMvc\\imtahanMvc.csproj|solutionrelative:imtahanmvc\\models\\teachers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{709E5367-630E-45DD-ACC1-E5E29AAF8893}|imtahanMvc\\imtahanMvc.csproj|c:\\users\\i novbe\\source\\repos\\imtahanmvc\\imtahanmvc\\viewmodel\\account\\registervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{709E5367-630E-45DD-ACC1-E5E29AAF8893}|imtahanMvc\\imtahanMvc.csproj|solutionrelative:imtahanmvc\\viewmodel\\account\\registervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{709E5367-630E-45DD-ACC1-E5E29AAF8893}|imtahanMvc\\imtahanMvc.csproj|c:\\users\\i novbe\\source\\repos\\imtahanmvc\\imtahanmvc\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{709E5367-630E-45DD-ACC1-E5E29AAF8893}|imtahanMvc\\imtahanMvc.csproj|solutionrelative:imtahanmvc\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{709E5367-630E-45DD-ACC1-E5E29AAF8893}|imtahanMvc\\imtahanMvc.csproj|c:\\users\\i novbe\\source\\repos\\imtahanmvc\\imtahanmvc\\models\\position.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{709E5367-630E-45DD-ACC1-E5E29AAF8893}|imtahanMvc\\imtahanMvc.csproj|solutionrelative:imtahanmvc\\models\\position.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{709E5367-630E-45DD-ACC1-E5E29AAF8893}|imtahanMvc\\imtahanMvc.csproj|c:\\users\\i novbe\\source\\repos\\imtahanmvc\\imtahanmvc\\areas\\manage\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{709E5367-630E-45DD-ACC1-E5E29AAF8893}|imtahanMvc\\imtahanMvc.csproj|solutionrelative:imtahanmvc\\areas\\manage\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{709E5367-630E-45DD-ACC1-E5E29AAF8893}|imtahanMvc\\imtahanMvc.csproj|c:\\users\\i novbe\\source\\repos\\imtahanmvc\\imtahanmvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{709E5367-630E-45DD-ACC1-E5E29AAF8893}|imtahanMvc\\imtahanMvc.csproj|solutionrelative:imtahanmvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{709E5367-630E-45DD-ACC1-E5E29AAF8893}|imtahanMvc\\imtahanMvc.csproj|c:\\users\\i novbe\\source\\repos\\imtahanmvc\\imtahanmvc\\viewmodel\\account\\loginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{709E5367-630E-45DD-ACC1-E5E29AAF8893}|imtahanMvc\\imtahanMvc.csproj|solutionrelative:imtahanmvc\\viewmodel\\account\\loginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{709E5367-630E-45DD-ACC1-E5E29AAF8893}|imtahanMvc\\imtahanMvc.csproj|c:\\users\\i novbe\\source\\repos\\imtahanmvc\\imtahanmvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{709E5367-630E-45DD-ACC1-E5E29AAF8893}|imtahanMvc\\imtahanMvc.csproj|solutionrelative:imtahanmvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{709E5367-630E-45DD-ACC1-E5E29AAF8893}|imtahanMvc\\imtahanMvc.csproj|c:\\users\\i novbe\\source\\repos\\imtahanmvc\\imtahanmvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{709E5367-630E-45DD-ACC1-E5E29AAF8893}|imtahanMvc\\imtahanMvc.csproj|solutionrelative:imtahanmvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{709E5367-630E-45DD-ACC1-E5E29AAF8893}|imtahanMvc\\imtahanMvc.csproj|c:\\users\\i novbe\\source\\repos\\imtahanmvc\\imtahanmvc\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{709E5367-630E-45DD-ACC1-E5E29AAF8893}|imtahanMvc\\imtahanMvc.csproj|solutionrelative:imtahanmvc\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{709E5367-630E-45DD-ACC1-E5E29AAF8893}|imtahanMvc\\imtahanMvc.csproj|c:\\users\\i novbe\\source\\repos\\imtahanmvc\\imtahanmvc\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{709E5367-630E-45DD-ACC1-E5E29AAF8893}|imtahanMvc\\imtahanMvc.csproj|solutionrelative:imtahanmvc\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{709E5367-630E-45DD-ACC1-E5E29AAF8893}|imtahanMvc\\imtahanMvc.csproj|c:\\users\\i novbe\\source\\repos\\imtahanmvc\\imtahanmvc\\areas\\manage\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{709E5367-630E-45DD-ACC1-E5E29AAF8893}|imtahanMvc\\imtahanMvc.csproj|solutionrelative:imtahanmvc\\areas\\manage\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{709E5367-630E-45DD-ACC1-E5E29AAF8893}|imtahanMvc\\imtahanMvc.csproj|c:\\users\\i novbe\\source\\repos\\imtahanmvc\\imtahanmvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{709E5367-630E-45DD-ACC1-E5E29AAF8893}|imtahanMvc\\imtahanMvc.csproj|solutionrelative:imtahanmvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{709E5367-630E-45DD-ACC1-E5E29AAF8893}|imtahanMvc\\imtahanMvc.csproj|c:\\users\\i novbe\\source\\repos\\imtahanmvc\\imtahanmvc\\models\\baseentites\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{709E5367-630E-45DD-ACC1-E5E29AAF8893}|imtahanMvc\\imtahanMvc.csproj|solutionrelative:imtahanmvc\\models\\baseentites\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{709E5367-630E-45DD-ACC1-E5E29AAF8893}|imtahanMvc\\imtahanMvc.csproj|c:\\users\\i novbe\\source\\repos\\imtahanmvc\\imtahanmvc\\areas\\manage\\controllers\\base\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{709E5367-630E-45DD-ACC1-E5E29AAF8893}|imtahanMvc\\imtahanMvc.csproj|solutionrelative:imtahanmvc\\areas\\manage\\controllers\\base\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{709E5367-630E-45DD-ACC1-E5E29AAF8893}|imtahanMvc\\imtahanMvc.csproj|c:\\users\\i novbe\\source\\repos\\imtahanmvc\\imtahanmvc\\areas\\manage\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{709E5367-630E-45DD-ACC1-E5E29AAF8893}|imtahanMvc\\imtahanMvc.csproj|solutionrelative:imtahanmvc\\areas\\manage\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{709E5367-630E-45DD-ACC1-E5E29AAF8893}|imtahanMvc\\imtahanMvc.csproj|c:\\users\\i novbe\\source\\repos\\imtahanmvc\\imtahanmvc\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{709E5367-630E-45DD-ACC1-E5E29AAF8893}|imtahanMvc\\imtahanMvc.csproj|solutionrelative:imtahanmvc\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{709E5367-630E-45DD-ACC1-E5E29AAF8893}|imtahanMvc\\imtahanMvc.csproj|c:\\users\\i novbe\\source\\repos\\imtahanmvc\\imtahanmvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{709E5367-630E-45DD-ACC1-E5E29AAF8893}|imtahanMvc\\imtahanMvc.csproj|solutionrelative:imtahanmvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\imtahanMvc\\imtahanMvc\\Areas\\Manage\\Views\\Position\\Update.cshtml",
+              "RelativeDocumentMoniker": "imtahanMvc\\Areas\\Manage\\Views\\Position\\Update.cshtml",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\imtahanMvc\\imtahanMvc\\Areas\\Manage\\Views\\Position\\Update.cshtml",
+              "RelativeToolTip": "imtahanMvc\\Areas\\Manage\\Views\\Position\\Update.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-23T08:25:05.433Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\imtahanMvc\\imtahanMvc\\Areas\\Manage\\Views\\Position\\Create.cshtml",
+              "RelativeDocumentMoniker": "imtahanMvc\\Areas\\Manage\\Views\\Position\\Create.cshtml",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\imtahanMvc\\imtahanMvc\\Areas\\Manage\\Views\\Position\\Create.cshtml",
+              "RelativeToolTip": "imtahanMvc\\Areas\\Manage\\Views\\Position\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-23T07:45:06.988Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\imtahanMvc\\imtahanMvc\\Areas\\Manage\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "imtahanMvc\\Areas\\Manage\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\imtahanMvc\\imtahanMvc\\Areas\\Manage\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "imtahanMvc\\Areas\\Manage\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAACkAAAAAAAAAAAAQwDIAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-23T07:37:34.967Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\imtahanMvc\\imtahanMvc\\Areas\\Manage\\Views\\Position\\Index.cshtml",
+              "RelativeDocumentMoniker": "imtahanMvc\\Areas\\Manage\\Views\\Position\\Index.cshtml",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\imtahanMvc\\imtahanMvc\\Areas\\Manage\\Views\\Position\\Index.cshtml",
+              "RelativeToolTip": "imtahanMvc\\Areas\\Manage\\Views\\Position\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-23T07:30:42.604Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\imtahanMvc\\imtahanMvc\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "imtahanMvc\\Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\imtahanMvc\\imtahanMvc\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "imtahanMvc\\Views\\Account\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAABcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-23T07:00:47.188Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PositionController.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\imtahanMvc\\imtahanMvc\\Areas\\Manage\\Controllers\\PositionController.cs",
+              "RelativeDocumentMoniker": "imtahanMvc\\Areas\\Manage\\Controllers\\PositionController.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\imtahanMvc\\imtahanMvc\\Areas\\Manage\\Controllers\\PositionController.cs",
+              "RelativeToolTip": "imtahanMvc\\Areas\\Manage\\Controllers\\PositionController.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAcwDQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T06:52:34.594Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\imtahanMvc\\imtahanMvc\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "imtahanMvc\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\imtahanMvc\\imtahanMvc\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "imtahanMvc\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAwwB0AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T05:55:25.528Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "LoginVm.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\imtahanMvc\\imtahanMvc\\ViewModel\\Account\\LoginVm.cs",
+              "RelativeDocumentMoniker": "imtahanMvc\\ViewModel\\Account\\LoginVm.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\imtahanMvc\\imtahanMvc\\ViewModel\\Account\\LoginVm.cs",
+              "RelativeToolTip": "imtahanMvc\\ViewModel\\Account\\LoginVm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T05:45:11.287Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\imtahanMvc\\imtahanMvc\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "imtahanMvc\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\imtahanMvc\\imtahanMvc\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "imtahanMvc\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEkAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-23T04:34:04.046Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\imtahanMvc\\imtahanMvc\\Areas\\Manage\\Views\\DashBoard\\Index.cshtml",
+              "RelativeDocumentMoniker": "imtahanMvc\\Areas\\Manage\\Views\\DashBoard\\Index.cshtml",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\imtahanMvc\\imtahanMvc\\Areas\\Manage\\Views\\DashBoard\\Index.cshtml",
+              "RelativeToolTip": "imtahanMvc\\Areas\\Manage\\Views\\DashBoard\\Index.cshtml",
+              "ViewState": "AgIAAC0BAAAAAAAAAAAuwFoBAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-23T04:40:41.302Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Position.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\imtahanMvc\\imtahanMvc\\Models\\Position.cs",
+              "RelativeDocumentMoniker": "imtahanMvc\\Models\\Position.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\imtahanMvc\\imtahanMvc\\Models\\Position.cs",
+              "RelativeToolTip": "imtahanMvc\\Models\\Position.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T04:54:47.092Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Teachers.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\imtahanMvc\\imtahanMvc\\Models\\Teachers.cs",
+              "RelativeDocumentMoniker": "imtahanMvc\\Models\\Teachers.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\imtahanMvc\\imtahanMvc\\Models\\Teachers.cs",
+              "RelativeToolTip": "imtahanMvc\\Models\\Teachers.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T05:20:07.818Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RegisterVm.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\imtahanMvc\\imtahanMvc\\ViewModel\\Account\\RegisterVm.cs",
+              "RelativeDocumentMoniker": "imtahanMvc\\ViewModel\\Account\\RegisterVm.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\imtahanMvc\\imtahanMvc\\ViewModel\\Account\\RegisterVm.cs",
+              "RelativeToolTip": "imtahanMvc\\ViewModel\\Account\\RegisterVm.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwBkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T05:44:59.646Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AppUser.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\imtahanMvc\\imtahanMvc\\Models\\AppUser.cs",
+              "RelativeDocumentMoniker": "imtahanMvc\\Models\\AppUser.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\imtahanMvc\\imtahanMvc\\Models\\AppUser.cs",
+              "RelativeToolTip": "imtahanMvc\\Models\\AppUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T04:57:49.27Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\imtahanMvc\\imtahanMvc\\DAL\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "imtahanMvc\\DAL\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\imtahanMvc\\imtahanMvc\\DAL\\AppDbContext.cs",
+              "RelativeToolTip": "imtahanMvc\\DAL\\AppDbContext.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T04:58:11.091Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\imtahanMvc\\imtahanMvc\\appsettings.json",
+              "RelativeDocumentMoniker": "imtahanMvc\\appsettings.json",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\imtahanMvc\\imtahanMvc\\appsettings.json",
+              "RelativeToolTip": "imtahanMvc\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAB0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-23T05:04:31.81Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\imtahanMvc\\imtahanMvc\\Models\\BaseEntites\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "imtahanMvc\\Models\\BaseEntites\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\imtahanMvc\\imtahanMvc\\Models\\BaseEntites\\BaseEntity.cs",
+              "RelativeToolTip": "imtahanMvc\\Models\\BaseEntites\\BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T04:54:22.575Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "BaseController.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\imtahanMvc\\imtahanMvc\\Areas\\Manage\\Controllers\\Base\\BaseController.cs",
+              "RelativeDocumentMoniker": "imtahanMvc\\Areas\\Manage\\Controllers\\Base\\BaseController.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\imtahanMvc\\imtahanMvc\\Areas\\Manage\\Controllers\\Base\\BaseController.cs",
+              "RelativeToolTip": "imtahanMvc\\Areas\\Manage\\Controllers\\Base\\BaseController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T04:51:49.044Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\imtahanMvc\\imtahanMvc\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "imtahanMvc\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\imtahanMvc\\imtahanMvc\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "imtahanMvc\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T04:32:46.481Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\imtahanMvc\\imtahanMvc\\Areas\\Manage\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "imtahanMvc\\Areas\\Manage\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\imtahanMvc\\imtahanMvc\\Areas\\Manage\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "imtahanMvc\\Areas\\Manage\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-23T04:41:51.048Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\imtahanMvc\\imtahanMvc\\Program.cs",
+              "RelativeDocumentMoniker": "imtahanMvc\\Program.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\imtahanMvc\\imtahanMvc\\Program.cs",
+              "RelativeToolTip": "imtahanMvc\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T04:32:28.279Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "DashBoardController.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\imtahanMvc\\imtahanMvc\\Areas\\Manage\\Controllers\\DashBoardController.cs",
+              "RelativeDocumentMoniker": "imtahanMvc\\Areas\\Manage\\Controllers\\DashBoardController.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\imtahanMvc\\imtahanMvc\\Areas\\Manage\\Controllers\\DashBoardController.cs",
+              "RelativeToolTip": "imtahanMvc\\Areas\\Manage\\Controllers\\DashBoardController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T04:40:26.119Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\imtahanMvc\\imtahanMvc\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "imtahanMvc\\ScaffoldingReadMe.txt",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\imtahanMvc\\imtahanMvc\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "imtahanMvc\\ScaffoldingReadMe.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-01-23T04:39:21.755Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\imtahanMvc\\imtahanMvc\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "imtahanMvc\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\imtahanMvc\\imtahanMvc\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "imtahanMvc\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEACAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-23T04:34:48.952Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

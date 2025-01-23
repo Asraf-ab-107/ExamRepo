@@ -1,0 +1,13 @@
+﻿@using imtahanMvc.Models
+@model Position
+
+<div class="container">
+    <form method="post">
+        <div class="form-group">
+            <label asp-for="Name">Enter Name</label>
+            <input asp-for="Name" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Enter Name">
+            <span asp-validation-for="Name"></span>
+        </div>
+        <button type="submit" class="btn btn-primary">Submit</button>
+    </form>
+</div>
