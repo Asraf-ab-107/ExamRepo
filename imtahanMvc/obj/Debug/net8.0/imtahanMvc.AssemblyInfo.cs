@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("imtahanMvc")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+47d3302fed84069ecca197c7a14b225ae3e11050")]
 [assembly: System.Reflection.AssemblyProductAttribute("imtahanMvc")]
 [assembly: System.Reflection.AssemblyTitleAttribute("imtahanMvc")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
